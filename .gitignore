@@ -1,1 +1,10 @@
 .idea/
+/starter_code/target/
+.settings/
+.github/
+.vscode/
+.classpath
+.factorypath
+.project
+*.iml
+.springBeans
